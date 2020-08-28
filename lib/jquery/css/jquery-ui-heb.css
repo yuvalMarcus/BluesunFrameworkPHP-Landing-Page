@@ -1,0 +1,18 @@
+
+.ui-datepicker .ui-datepicker-prev span, .ui-datepicker .ui-datepicker-next span {
+    top: 40%;
+    margin-left: -25px;    
+}
+
+.ui-icon {
+    width: 40px;
+    height: 20px;
+}
+
+.ui-icon {
+    text-indent: 0px;
+}
+
+.ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next {
+    width: 3.8em;
+}

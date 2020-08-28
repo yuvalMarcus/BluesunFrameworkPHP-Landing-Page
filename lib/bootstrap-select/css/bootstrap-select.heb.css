@@ -1,0 +1,14 @@
+
+.bootstrap-select.btn-group .dropdown-toggle .filter-option {
+    text-align: right;
+}
+
+.bootstrap-select.btn-group .dropdown-toggle .caret {
+    left: 0px;
+    right: 0px;
+}
+
+.bootstrap-select > .dropdown-toggle {
+    padding-right: 0px;
+    padding-left: 25px;    
+}
